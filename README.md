@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenPutnam
-- 👀 I’m interested in developing software that helps people learn, work, and thrive.
+- 👀 I’m interested in developing software that helps people learn, work, and thrive. I also like art, travel, reading, and indie music.
 - 🌱 I’m currently learning software development and computer science.
 - 📫 How to reach me ...
 
